@@ -1,0 +1,243 @@
+{
+    "tier_1_central": [
+        {
+            "name": "MyScheme.gov.in",
+            "url": "https://www.myscheme.gov.in/search",
+            "type": "api",
+            "priority": 1
+        },
+        {
+            "name": "e-Gazette India",
+            "url": "https://egazette.gov.in",
+            "type": "gazette",
+            "priority": 1
+        },
+        {
+            "name": "India.gov.in Schemes",
+            "url": "https://www.india.gov.in/my-government/schemes",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "Vikaspedia",
+            "url": "https://vikaspedia.in/social-welfare",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "UMANG",
+            "url": "https://web.umang.gov.in",
+            "type": "api",
+            "priority": 3
+        },
+        {
+            "name": "PM India",
+            "url": "https://www.pmindia.gov.in/en/major_initiatives/",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "National Portal Services",
+            "url": "https://services.india.gov.in",
+            "type": "html",
+            "priority": 3
+        }
+    ],
+    "tier_1_tamil_nadu": [
+        {
+            "name": "TN Gazette",
+            "url": "http://www.stationeryprinting.tn.gov.in/gazette/",
+            "type": "gazette",
+            "priority": 1
+        },
+        {
+            "name": "TN Social Welfare",
+            "url": "https://www.tnsocialwelfare.tn.gov.in/en/schemes",
+            "type": "html",
+            "priority": 1
+        },
+        {
+            "name": "TN e-Sevai",
+            "url": "https://www.tnesevai.tn.gov.in",
+            "type": "portal",
+            "priority": 2
+        },
+        {
+            "name": "TNPDS Ration",
+            "url": "https://www.tnpds.gov.in",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "TN Adi Dravidar Welfare",
+            "url": "https://www.adwelfare.tn.gov.in",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "TN BC/MBC Welfare",
+            "url": "https://bcmbcmw.tn.gov.in",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "TN Agriculture",
+            "url": "https://www.tn.gov.in/department/2",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "TN Labour",
+            "url": "https://www.tnlabour.tn.gov.in",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "TN Rural Dev",
+            "url": "https://www.tnrd.gov.in",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "CMCHIS Health",
+            "url": "https://www.cmchistn.com",
+            "type": "html",
+            "priority": 2
+        }
+    ],
+    "tier_1_kerala": [
+        {
+            "name": "Kerala e-Gazette",
+            "url": "http://www.egazette.kerala.gov.in",
+            "type": "gazette",
+            "priority": 1
+        },
+        {
+            "name": "Kerala SJD",
+            "url": "http://sjd.kerala.gov.in",
+            "type": "html",
+            "priority": 1
+        },
+        {
+            "name": "Kerala WCD",
+            "url": "http://wcd.kerala.gov.in/schemes.php",
+            "type": "html",
+            "priority": 1
+        },
+        {
+            "name": "Kerala NORKA",
+            "url": "https://www.norkaroots.org",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "Kerala IT Mission",
+            "url": "https://itmission.kerala.gov.in",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "Kerala Agriculture",
+            "url": "http://www.keralaagriculture.gov.in",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "Kerala SC/ST",
+            "url": "http://stdd.kerala.gov.in",
+            "type": "html",
+            "priority": 2
+        },
+        {
+            "name": "Kerala Labour",
+            "url": "http://labour.kerala.gov.in",
+            "type": "html",
+            "priority": 3
+        },
+        {
+            "name": "Kerala Fisheries",
+            "url": "http://fisheries.kerala.gov.in/schemes",
+            "type": "html",
+            "priority": 2
+        }
+    ],
+    "tier_2_ministries": [
+        {
+            "name": "Min. Agriculture",
+            "url": "https://agricoop.nic.in/en/schemes",
+            "type": "html"
+        },
+        {
+            "name": "Min. Social Justice",
+            "url": "https://socialjustice.gov.in/schemes",
+            "type": "html"
+        },
+        {
+            "name": "Min. Tribal Affairs",
+            "url": "https://tribal.nic.in/SchemeList.aspx",
+            "type": "html"
+        },
+        {
+            "name": "Min. Women & Child",
+            "url": "https://wcd.nic.in/schemes-listing",
+            "type": "html"
+        },
+        {
+            "name": "Min. Minority Affairs",
+            "url": "https://minorityaffairs.gov.in/schemes",
+            "type": "html"
+        },
+        {
+            "name": "Min. Education",
+            "url": "https://www.education.gov.in/scholarships",
+            "type": "html"
+        },
+        {
+            "name": "Min. Health",
+            "url": "https://main.mohfw.gov.in/major-programmes",
+            "type": "html"
+        },
+        {
+            "name": "Min. MSME",
+            "url": "https://msme.gov.in/all-schemes",
+            "type": "html"
+        }
+    ],
+    "tier_3_supplementary": [
+        {
+            "name": "data.gov.in",
+            "url": "https://data.gov.in",
+            "type": "dataset"
+        },
+        {
+            "name": "PIB News",
+            "url": "https://pib.gov.in",
+            "type": "rss"
+        },
+        {
+            "name": "National Scholarship",
+            "url": "https://scholarships.gov.in",
+            "type": "portal"
+        },
+        {
+            "name": "PM Kisan",
+            "url": "https://pmkisan.gov.in",
+            "type": "portal"
+        },
+        {
+            "name": "Ayushman Bharat",
+            "url": "https://abdm.gov.in",
+            "type": "portal"
+        },
+        {
+            "name": "Skill India",
+            "url": "https://www.skillindia.gov.in",
+            "type": "portal"
+        },
+        {
+            "name": "Mudra Yojana",
+            "url": "https://www.mudra.org.in",
+            "type": "portal"
+        }
+    ]
+}

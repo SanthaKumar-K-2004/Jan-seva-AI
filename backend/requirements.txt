@@ -1,0 +1,16 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+python-dotenv
+httpx
+beautifulsoup4
+groq
+google-generativeai
+openai
+sqlalchemy
+asyncpg
+supabase
+python-multipart
+starlette
+edge-tts
